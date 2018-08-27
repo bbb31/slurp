@@ -16,4 +16,5 @@ func main() {
 	fmt.Println("Just kidding")
 	time.Sleep(500 * time.Millisecond)
 	fmt.Println("You could have been hacked! Don't blindly run code off Github just because someone you trust linked it to you.")
+	fmt.Println("More info at https://medium.com/@SweetRollBandit/aws-slurp-github-takeover-f8c80b13e7b5")
 }
